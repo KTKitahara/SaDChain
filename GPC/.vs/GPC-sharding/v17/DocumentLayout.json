@@ -1,0 +1,296 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Haruki\\Desktop\\p\\GP(1)\\GPC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B6B5A121-A7D9-49B1-9E8E-9255F6AB99DB}|GPtest.vcxproj|C:\\Users\\Haruki\\Desktop\\p\\GP(1)\\GPC\\comfunc.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B6B5A121-A7D9-49B1-9E8E-9255F6AB99DB}|GPtest.vcxproj|solutionrelative:comfunc.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6B5A121-A7D9-49B1-9E8E-9255F6AB99DB}|GPtest.vcxproj|C:\\Users\\Haruki\\Desktop\\p\\GP(1)\\GPC\\CCGPHH.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B6B5A121-A7D9-49B1-9E8E-9255F6AB99DB}|GPtest.vcxproj|solutionrelative:CCGPHH.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6B5A121-A7D9-49B1-9E8E-9255F6AB99DB}|GPtest.vcxproj|C:\\Users\\Haruki\\Desktop\\p\\GP(1)\\GPC\\CCGPHHFitness.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B6B5A121-A7D9-49B1-9E8E-9255F6AB99DB}|GPtest.vcxproj|solutionrelative:CCGPHHFitness.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6B5A121-A7D9-49B1-9E8E-9255F6AB99DB}|GPtest.vcxproj|C:\\Users\\Haruki\\Desktop\\p\\GP(1)\\GPC\\GPHH.CPP||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B6B5A121-A7D9-49B1-9E8E-9255F6AB99DB}|GPtest.vcxproj|solutionrelative:GPHH.CPP||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6B5A121-A7D9-49B1-9E8E-9255F6AB99DB}|GPtest.vcxproj|C:\\Users\\Haruki\\Desktop\\p\\GP(1)\\GPC\\LowLevel_heuristics1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B6B5A121-A7D9-49B1-9E8E-9255F6AB99DB}|GPtest.vcxproj|solutionrelative:LowLevel_heuristics1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6B5A121-A7D9-49B1-9E8E-9255F6AB99DB}|GPtest.vcxproj|C:\\Users\\Haruki\\Desktop\\p\\GP(1)\\GPC\\LowLevel_heuristics.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B6B5A121-A7D9-49B1-9E8E-9255F6AB99DB}|GPtest.vcxproj|solutionrelative:LowLevel_heuristics.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6B5A121-A7D9-49B1-9E8E-9255F6AB99DB}|GPtest.vcxproj|C:\\Users\\Haruki\\Desktop\\p\\GP(1)\\GPC\\gpu_kernel.cu||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{B6B5A121-A7D9-49B1-9E8E-9255F6AB99DB}|GPtest.vcxproj|solutionrelative:gpu_kernel.cu||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6B5A121-A7D9-49B1-9E8E-9255F6AB99DB}|GPtest.vcxproj|C:\\Users\\Haruki\\Desktop\\p\\GP(1)\\GPC\\definition.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B6B5A121-A7D9-49B1-9E8E-9255F6AB99DB}|GPtest.vcxproj|solutionrelative:definition.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6B5A121-A7D9-49B1-9E8E-9255F6AB99DB}|GPtest.vcxproj|C:\\Users\\Haruki\\Desktop\\p\\GP(1)\\GPC\\test.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B6B5A121-A7D9-49B1-9E8E-9255F6AB99DB}|GPtest.vcxproj|solutionrelative:test.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6B5A121-A7D9-49B1-9E8E-9255F6AB99DB}|GPtest.vcxproj|C:\\Users\\Haruki\\Desktop\\p\\GP(1)\\GPC\\showstr.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B6B5A121-A7D9-49B1-9E8E-9255F6AB99DB}|GPtest.vcxproj|solutionrelative:showstr.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6B5A121-A7D9-49B1-9E8E-9255F6AB99DB}|GPtest.vcxproj|C:\\Users\\Haruki\\Desktop\\p\\GP(1)\\GPC\\crossover.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B6B5A121-A7D9-49B1-9E8E-9255F6AB99DB}|GPtest.vcxproj|solutionrelative:crossover.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6B5A121-A7D9-49B1-9E8E-9255F6AB99DB}|GPtest.vcxproj|C:\\Users\\Haruki\\Desktop\\p\\GP(1)\\GPC\\max.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B6B5A121-A7D9-49B1-9E8E-9255F6AB99DB}|GPtest.vcxproj|solutionrelative:max.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6B5A121-A7D9-49B1-9E8E-9255F6AB99DB}|GPtest.vcxproj|C:\\Users\\Haruki\\Desktop\\p\\GP(1)\\GPC\\min.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B6B5A121-A7D9-49B1-9E8E-9255F6AB99DB}|GPtest.vcxproj|solutionrelative:min.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6B5A121-A7D9-49B1-9E8E-9255F6AB99DB}|GPtest.vcxproj|C:\\Users\\Haruki\\Desktop\\p\\GP(1)\\GPC\\decode1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B6B5A121-A7D9-49B1-9E8E-9255F6AB99DB}|GPtest.vcxproj|solutionrelative:decode1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6B5A121-A7D9-49B1-9E8E-9255F6AB99DB}|GPtest.vcxproj|C:\\Users\\Haruki\\Desktop\\p\\GP(1)\\GPC\\decode.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B6B5A121-A7D9-49B1-9E8E-9255F6AB99DB}|GPtest.vcxproj|solutionrelative:decode.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6B5A121-A7D9-49B1-9E8E-9255F6AB99DB}|GPtest.vcxproj|C:\\Users\\Haruki\\Desktop\\p\\GP(1)\\GPC\\gpu_bridge.cuh||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{B6B5A121-A7D9-49B1-9E8E-9255F6AB99DB}|GPtest.vcxproj|solutionrelative:gpu_bridge.cuh||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\include\\limits.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LowLevel_heuristics.cpp",
+              "DocumentMoniker": "C:\\Users\\Haruki\\Desktop\\p\\GP(1)\\GPC\\LowLevel_heuristics.cpp",
+              "RelativeDocumentMoniker": "LowLevel_heuristics.cpp",
+              "ToolTip": "C:\\Users\\Haruki\\Desktop\\p\\GP(1)\\GPC\\LowLevel_heuristics.cpp",
+              "RelativeToolTip": "LowLevel_heuristics.cpp",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAACkAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-09T09:37:28.937Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CCGPHHFitness.cpp",
+              "DocumentMoniker": "C:\\Users\\Haruki\\Desktop\\p\\GP(1)\\GPC\\CCGPHHFitness.cpp",
+              "RelativeDocumentMoniker": "CCGPHHFitness.cpp",
+              "ToolTip": "C:\\Users\\Haruki\\Desktop\\p\\GP(1)\\GPC\\CCGPHHFitness.cpp",
+              "RelativeToolTip": "CCGPHHFitness.cpp",
+              "ViewState": "AgIAAO8AAAAAAAAAAAAqwP4AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-17T07:25:19.758Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CCGPHH.cpp",
+              "DocumentMoniker": "C:\\Users\\Haruki\\Desktop\\p\\GP(1)\\GPC\\CCGPHH.cpp",
+              "RelativeDocumentMoniker": "CCGPHH.cpp",
+              "ToolTip": "C:\\Users\\Haruki\\Desktop\\p\\GP(1)\\GPC\\CCGPHH.cpp",
+              "RelativeToolTip": "CCGPHH.cpp",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAIwBoAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-10-29T08:44:29.017Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "crossover.cpp",
+              "DocumentMoniker": "C:\\Users\\Haruki\\Desktop\\p\\GP(1)\\GPC\\crossover.cpp",
+              "RelativeDocumentMoniker": "crossover.cpp",
+              "ToolTip": "C:\\Users\\Haruki\\Desktop\\p\\GP(1)\\GPC\\crossover.cpp",
+              "RelativeToolTip": "crossover.cpp",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAAAMAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-18T07:43:11.245Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "min.cpp",
+              "DocumentMoniker": "C:\\Users\\Haruki\\Desktop\\p\\GP(1)\\GPC\\min.cpp",
+              "RelativeDocumentMoniker": "min.cpp",
+              "ToolTip": "C:\\Users\\Haruki\\Desktop\\p\\GP(1)\\GPC\\min.cpp",
+              "RelativeToolTip": "min.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-01-13T07:48:42.936Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GPHH.CPP",
+              "DocumentMoniker": "C:\\Users\\Haruki\\Desktop\\p\\GP(1)\\GPC\\GPHH.cpp",
+              "RelativeDocumentMoniker": "GPHH.cpp",
+              "ToolTip": "C:\\Users\\Haruki\\Desktop\\p\\GP(1)\\GPC\\GPHH.cpp",
+              "RelativeToolTip": "GPHH.cpp",
+              "ViewState": "AgIAAAABAAAAAAAAAAAqwA4BAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-16T12:42:19.267Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "test.cpp",
+              "DocumentMoniker": "C:\\Users\\Haruki\\Desktop\\p\\GP(1)\\GPC\\test.cpp",
+              "RelativeDocumentMoniker": "test.cpp",
+              "ToolTip": "C:\\Users\\Haruki\\Desktop\\p\\GP(1)\\GPC\\test.cpp",
+              "RelativeToolTip": "test.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-06-26T07:31:00.776Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "gpu_kernel.cu",
+              "DocumentMoniker": "C:\\Users\\Haruki\\Desktop\\p\\GP(1)\\GPC\\gpu_kernel.cu",
+              "RelativeDocumentMoniker": "gpu_kernel.cu",
+              "ToolTip": "C:\\Users\\Haruki\\Desktop\\p\\GP(1)\\GPC\\gpu_kernel.cu",
+              "RelativeToolTip": "gpu_kernel.cu",
+              "ViewState": "AgIAAH0AAAAAAAAAAAAqwI0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-01-13T15:58:02.906Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "definition.cpp",
+              "DocumentMoniker": "C:\\Users\\Haruki\\Desktop\\p\\GP(1)\\GPC\\definition.cpp",
+              "RelativeDocumentMoniker": "definition.cpp",
+              "ToolTip": "C:\\Users\\Haruki\\Desktop\\p\\GP(1)\\GPC\\definition.cpp",
+              "RelativeToolTip": "definition.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwMAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-01-10T08:23:51.937Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "comfunc.h",
+              "DocumentMoniker": "C:\\Users\\Haruki\\Desktop\\p\\GP(1)\\GPC\\comfunc.h",
+              "RelativeDocumentMoniker": "comfunc.h",
+              "ToolTip": "C:\\Users\\Haruki\\Desktop\\p\\GP(1)\\GPC\\comfunc.h",
+              "RelativeToolTip": "comfunc.h",
+              "ViewState": "AgIAAGYAAAAAAAAAAAAqwFQAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-10T08:17:48.478Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "showstr.cpp",
+              "DocumentMoniker": "C:\\Users\\Haruki\\Desktop\\p\\GP(1)\\GPC\\showstr.cpp",
+              "RelativeDocumentMoniker": "showstr.cpp",
+              "ToolTip": "C:\\Users\\Haruki\\Desktop\\p\\GP(1)\\GPC\\showstr.cpp",
+              "RelativeToolTip": "showstr.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-10-22T05:14:40.989Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LowLevel_heuristics1.cpp",
+              "DocumentMoniker": "C:\\Users\\Haruki\\Desktop\\p\\GP(1)\\GPC\\LowLevel_heuristics1.cpp",
+              "RelativeDocumentMoniker": "LowLevel_heuristics1.cpp",
+              "ToolTip": "C:\\Users\\Haruki\\Desktop\\p\\GP(1)\\GPC\\LowLevel_heuristics1.cpp",
+              "RelativeToolTip": "LowLevel_heuristics1.cpp",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAAABsAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-17T09:02:54.102Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "max.cpp",
+              "DocumentMoniker": "C:\\Users\\Haruki\\Desktop\\p\\GP(1)\\GPC\\max.cpp",
+              "RelativeDocumentMoniker": "max.cpp",
+              "ToolTip": "C:\\Users\\Haruki\\Desktop\\p\\GP(1)\\GPC\\max.cpp",
+              "RelativeToolTip": "max.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-01-13T07:48:39.745Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "decode1.cpp",
+              "DocumentMoniker": "C:\\Users\\Haruki\\Desktop\\p\\GP(1)\\GPC\\decode1.cpp",
+              "RelativeDocumentMoniker": "decode1.cpp",
+              "ToolTip": "C:\\Users\\Haruki\\Desktop\\p\\GP(1)\\GPC\\decode1.cpp",
+              "RelativeToolTip": "decode1.cpp",
+              "ViewState": "AgIAAFUAAAAAAAAAAAAgwGQAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-15T08:25:08.489Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "decode.cpp",
+              "DocumentMoniker": "C:\\Users\\Haruki\\Desktop\\p\\GP(1)\\GPC\\decode.cpp",
+              "RelativeDocumentMoniker": "decode.cpp",
+              "ToolTip": "C:\\Users\\Haruki\\Desktop\\p\\GP(1)\\GPC\\decode.cpp",
+              "RelativeToolTip": "decode.cpp",
+              "ViewState": "AgIAAEoAAAAAAAAAAAAhwF8AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-18T07:31:06.798Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "gpu_bridge.cuh",
+              "DocumentMoniker": "C:\\Users\\Haruki\\Desktop\\p\\GP(1)\\GPC\\gpu_bridge.cuh",
+              "RelativeDocumentMoniker": "gpu_bridge.cuh",
+              "ToolTip": "C:\\Users\\Haruki\\Desktop\\p\\GP(1)\\GPC\\gpu_bridge.cuh",
+              "RelativeToolTip": "gpu_bridge.cuh",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAADgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-10-29T08:48:48.456Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "limits.h",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\include\\limits.h",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\include\\limits.h",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\include\\limits.h",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\include\\limits.h",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAtwCIAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-01-16T12:41:26.593Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
