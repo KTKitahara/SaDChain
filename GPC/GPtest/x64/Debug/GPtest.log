@@ -1,0 +1,10 @@
+﻿  LowLevel_heuristics1.cpp
+C:\Users\Haruki\Desktop\p\GP\comfunc.h(103,9): warning C4005: “INT_MIN”: 宏重定义
+  (编译源文件“LowLevel_heuristics1.cpp”)
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\limits.h(35,9):
+      参见“INT_MIN”的前一个定义
+  
+C:\Users\Haruki\Desktop\p\GP\comfunc.h(109,25): warning C4305: “初始化”: 从“double”到“float”截断
+  (编译源文件“LowLevel_heuristics1.cpp”)
+  
+  GPtest.vcxproj -> C:\Users\Haruki\Desktop\p\GP\x64\Debug\GPtest.exe
