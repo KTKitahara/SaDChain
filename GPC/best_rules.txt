@@ -1,0 +1,5 @@
+FINAL_TEST 1.25952e+06
+PRIMARY_RULE
+(see stdout)
+FOLLOWER_RULE
+(see stdout)
