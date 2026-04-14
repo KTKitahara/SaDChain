@@ -1,0 +1,14 @@
+﻿  CCGPHH.cpp
+  CCGPHHFitness.cpp
+  GPHH.CPP
+  LowLevel_heuristics.cpp
+  LowLevel_heuristics1.cpp
+  crossover.cpp
+  decode.cpp
+  decode1.cpp
+  definition.cpp
+  max.cpp
+  min.cpp
+  showstr.cpp
+  正在生成代码...
+  GPtest.vcxproj -> C:\Users\Haruki\Desktop\p\GP(1)\GPC\x64\Debug\GP.exe
